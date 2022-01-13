@@ -13,6 +13,8 @@ https://medium.com/coinmonks/coding-a-smart-world-series-330fe8b27db9
 
 https://u.today/guides/blockchain/how-to-build-a-blockchain-application-with-python#:~:text=%20How%20to%20Build%20a%20Blockchain%20Application%20with,block%2C%20we%20will%20specify%20that%20a...%20More%20
 
+https://levelup.gitconnected.com/dapps-development-for-python-developers-f52b32b54f28
+
 # Code Repos
 
 https://github.com/ethereum/web3.py
