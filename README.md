@@ -9,4 +9,6 @@ https://medium.com/coinmonks/how-i-integrated-django-with-blockchain-and-built-a
 
 https://www.dappuniversity.com/articles/web3-py-intro
 
+https://medium.com/coinmonks/coding-a-smart-world-series-330fe8b27db9
+
 # Code Repos
